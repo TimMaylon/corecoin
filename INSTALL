@@ -1,0 +1,9 @@
+Building Corecoin
+
+See doc/readme-qt.rst for instructions on building Corecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Corecoin.
+
+See doc/build-*.txt for instructions on building corecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Corecoin.
